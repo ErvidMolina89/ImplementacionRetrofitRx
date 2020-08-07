@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ManejoRetrofitRx</string>
+    <string name="Internet">Internet</string>
+    <string name="detail_falla_Internet">No tienes acceso a Internet, verifica</string>
+</resources>
